@@ -1,4 +1,5 @@
-![alt text](morning.webp)
+![alt text](./readme/morning.webp)
+
 # Yolo MyGO!!!!!
 
 **使用 YOLO 模型進行《BanG Dream! It's MyGO!!!!!》動畫角色的目標檢測**
@@ -94,23 +95,23 @@ python model_test.py
 
 ### 模型預測示例
 
-![Model Prediction](image.png)
+![Model Prediction](./readme/image.png)
 
 
-![Validation Batch 1 Prediction](val_batch1_pred.jpg)
+![Validation Batch 1 Prediction](./readme/val_batch1_pred.jpg)
 
 ### 標籤分佈
 
-![Labels Distribution](labels.jpg)
+![Labels Distribution](./readme/labels.jpg)
 
 ### 標籤角色列表
 
 | 角色名稱 | 圖片 | 角色名稱 | 圖片 | 角色名稱 | 圖片 |
 |----------|------|----------|------|----------|------|
-| Anon     | ![Anon](512384.webp) | Mutsumi  | ![Mutsumi](515789.webp) | Nyamu    | ![Nyamu](516912.webp) |
-| Raana    | ![Raana](512380.webp) | Ririko   | ![Ririko](515801.webp) | Saaya    | ![Saaya](365880.webp) |
-| Sakiko   | ![Sakiko](515788.webp) | Soyo     | ![Soyo](512381.webp) | Taki     | ![Taki](512383.webp) |
-| Tomori   | ![Tomori](512382.webp) | Uika     | ![Uika](516504.webp) | Umiri    | ![Umiri](516421.webp) |
+| Anon     | ![Anon](./readme/512384.webp) | Mutsumi  | ![Mutsumi](./readme/515789.webp) | Nyamu    | ![Nyamu](./readme/516912.webp) |
+| Raana    | ![Raana](./readme/512380.webp) | Ririko   | ![Ririko](./readme/515801.webp) | Saaya    | ![Saaya](./readme/365880.webp) |
+| Sakiko   | ![Sakiko](./readme/515788.webp) | Soyo     | ![Soyo](./readme/512381.webp) | Taki     | ![Taki](./readme/512383.webp) |
+| Tomori   | ![Tomori](./readme/512382.webp) | Uika     | ![Uika](./readme/516504.webp) | Umiri    | ![Umiri](./readme/516421.webp) |
 
 
 ---
@@ -121,5 +122,5 @@ python model_test.py
 - [MyAnimeList - BanG Dream! It's MyGO!!!!! 角色介紹](https://myanimelist.net/anime/54959/BanG_Dream_Its_MyGO/characters)
 - [演示影片](https://youtu.be/aoLHCHGvWrs)
 
-![alt text](1-3__29040__29120-1.gif)
+![alt text](./readme/1-3__29040__29120-1.gif)
 
